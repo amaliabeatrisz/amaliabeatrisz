@@ -1,4 +1,6 @@
-## Olá! Eu sou Amália, desenvolvedora front-end e graduanda em Ciência e Tecnologia :)
+<h4>Olá! Eu a sou Amália :)</h4> 
+Desenvolvedora Front-end
+Graduanda em Ciência e Tecnologia
 
 <div align="center">
   <a href="https://github.com/amaliabeatrisz">
