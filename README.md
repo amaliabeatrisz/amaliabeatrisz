@@ -14,5 +14,5 @@
   <img align="center" alt="Amália-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Amália-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Amália-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="right" alt="Amalia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/image_maker/338224/complete?cd=lquRiFjBg2width=676&height=676">
+  <img align="right" alt="Amalia-pic" height="150" style="border-radius:50px;" src="https://picrew.me/image_maker/338224/complete?cd=lquRiFjBg2">
 </div>
