@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/amaliabeatrisz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaliabeatrisz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliabeatrisz&layout=compact&langs_count=7&theme=dracula"/> -->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaliabeatrisz&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
@@ -14,7 +14,6 @@
   <img align="center" alt="Amália-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />  
   <img align="center" alt="Amália-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amália-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Amália-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Amália-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Amália-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="right" alt="Amalia-pic" height="150" src="https://media.discordapp.net/attachments/989359559418216508/1029432093056434197/eu.PNG">
