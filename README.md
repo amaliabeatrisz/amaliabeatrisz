@@ -1,4 +1,4 @@
-<h4>Olá! Eu a sou Amália, desenvolvedora front-end e graduanda em Ciência e Tecnologia - UFRN</h4>
+<h4>Olá! 🖐️ Eu a sou Amália, desenvolvedora front-end e graduanda em Ciência e Tecnologia - UFRN</h4>
 
 ##
 
