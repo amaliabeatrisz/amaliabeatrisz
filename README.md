@@ -1,4 +1,4 @@
-<h4>Olá! 🖐️ Eu a sou Amália, desenvolvedora front-end e graduanda em Ciência e Tecnologia - UFRN</h4>
+<h4>Hello wordl! 🖐️ Eu sou Amália, desenvolvedora front-end e graduanda em Ciência e Tecnologia - UFRN.</h4>
 
 ##
 
@@ -11,7 +11,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Amália-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amália-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />  
+  <img align="center" alt="Amália-vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> 
+  <img align="center" alt="Amália-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Amália-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amália-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amália-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
